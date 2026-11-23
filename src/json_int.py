@@ -30,4 +30,4 @@ def zet3(raw_input):
 
 if __name__ == "__main__":
     res = zet3({"k_a": "1", "k_b": "-5", "k_c": "6"})
-    print("Итог JSON:", res)
+    print("Результат JSON (ветка main):", res)
